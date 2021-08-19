@@ -62,10 +62,10 @@ public class SecondMainActivity extends AppCompatActivity implements View.OnClic
     private TextView stateText;
     private GifImageView gifImageView;
 
-    private String url = "121.5.61.117";
+    private String url = "xx.xx.xx.xx";
     private String port = "21";
-    private String username = "xiezhiyuan";
-    private String password = "ouyangxiaomin";
+    private String username = "xxxxxxxx";
+    private String password = "xxxxxxxx";
 
     public static final String remotePath = SerialNumber + String.valueOf((int) SystemClock.uptimeMillis());
 
